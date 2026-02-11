@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://whb709.github.io/whb.jpg" class="floatpic">
+<img src="https://whb709.github.io/tenshi2.png" class="floatpic">
 
 
 Here is **Hongbin Wang** [(王鸿斌)](https://github.com/whb709).<br>
