@@ -14,30 +14,16 @@ url: https://whb709.github.io
 # --------------------------------------------------
 owner:
   name: Hongbin Wang
-  avatar: hongbin.jpg
-  # bio: Dream big, stay positive, work hard, and enjoy the journey.
+  avatar: whb.jpg
   email: 2025150124@mails@szu.edu.cn
-  # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
-
-  # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  #twitter: lancecai2002
   github: whb709
-  #linkedin: hanlincai
-  #scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
-  #researchgate: https://www.researchgate.net/profile/Hanlin-Cai
-  #zhihu: https://www.zhihu.com/people/chlire
-  #xiaohongshu: 5c27848f0000000005030c6f
-  #instagram: lancecai2002
-  #bilibili: 594030035
-  # facebook: caihanlin2002
-  # lastfm:
-  # tumblr:
+
 
 
 # --------------------------------------------------
 #  SEARCH-ENGINE VERIFICATION & ANALYTICS
 # --------------------------------------------------
-google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
+#google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"  ***待修改***
 # bing_verify: ""    # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 # google_analytics: "G-XXXXXXX"                                 # GA-4 property ID
 
